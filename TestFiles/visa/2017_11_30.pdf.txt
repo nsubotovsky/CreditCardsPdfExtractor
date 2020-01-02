@@ -1,0 +1,190 @@
+PAGINA:
+VISA PLATINUM           1/ 3
+316 - CATALINAS
+SUCURSAL:
+9287 - LAN CON PQ SCLP
+GRUPO:
+30 50000319 3
+CUIT:
+01 - 017 - L
+CART:
+N DE CUENTA: 0402738152
+N008 - 081
+LIQ.:
+RESUMEN NRO.: 0723875 - 05 - 1 - CR0702
+SUBOTOVSKY NICOLAS
+TITULAR DE CUENTA:
+CIERRE ACTUAL: 30 Nov 17
+SUBOTOVSKY NICOLAS
+VENCIMIENTO SALDO $ SALDO U$S PAGO MIN.$ PAGO MIN.U$S
+AV DEL LIBERTADOR               2730 16
+1636  OLIVOS 13 Dic 17 5.577,40 631,71 2.780,00 -,--
+PROV BS AIRES                             CAR: 01
+TNA $ TEM $
+37,890 % 3,114 %
+VTO. ANTERIOR                                 SALDO ANTERIOR  $                                       U$S                                       PROXIMO CIERRE
+08 Nov 17 4.713,21 0,00 28 Dic 17
+CIERRE ANTERIOR                             PAGO MIN. ANT.     $                                                                                    PROXIMO VTO.
+26 Oct 17 870,00 10 Ene 18
+     LIMITES: COMPRA                                   FINANCIACION                                     ADELANTO(*)           CPRA. CUOTAS
+S/L S/L
+       Cuotas a vencer: 
+        Diciembre/17     Enero/18   Febrero/18     Marzo/18     Abril/18      Mayo/18 
+           $1.474,23    $1.148,40    $1.148,40    $1.148,40    $1.148,40      $672,11 
+       A partir de      Junio/18       $672,11                                                                             _ 
+           FECHA   COMPROBANTE          DETALLE DE TRANSACCION                                                                 PESOS                  DOLARES 
+                               SALDO ANTERIOR                                                  4.713,21              0,00 
+       08.11.17                SU PAGO EN PESOS                                                4.713,21-                  _ 
+       15.11.17     344725U    NETFLIX.COM                                                       229,00
+ 
+       Tarjeta 8115 Total Consumos de PESEL ROZENMAN                                             229,00              0,00 _ 
+       31.12.16     000721*    WWW.FRAVEGA.COM              Cuota  11/18                         672,11
+       23.01.17     000528*    TURISUR SRL                  Cuota  11/12                         153,33 
+       24.01.17     000534*    TURISUR SRL                  Cuota  11/12                         172,50
+       26.10.17     626871*    CABLEVISION DEB AUT 000000050942033                               955,00 
+       01.11.17     000106*    CAPICUA                                                           304,00
+       01.11.17     000349*    COENDU TURISMO                                                  1.500,00 
+       02.11.17     000761*    CARLOS E ENRIQUEZ Y OTROS UTE                                     180,00
+       03.11.17     000723*    DUTY FREE IGUAZU             Cuota  01/06                         476,30 
+       03.11.17     545111     CATARATAS DO IGUACU         BRL     100,60                                           30,87
+       03.11.17     210859     CATARATAS DO IGUACU         BRL      12,00                                            3,69 
+       03.11.17     215305     CATARATAS DO IGUACU SA      BRL      24,00                                            7,36
+       08.11.17     001991*    Express Rivadavia 3421                                             60,00 
+       12.11.17     003472*    YPF AUTOP PILAR S                                                 500,00
+       15.11.17     000344*    Express Rivadavia 3421                                             97,16 
+       20.11.17     006432*    EXPRESS HIDALGO 92                                                 84,00
+       22.11.17     075275     DELFOS AIRPORT LA CONDES    CLP  15.000,00                                           23,92 
+       22.11.17     170183     CAFETERIA ATRIL             CLP  13.640,00                                           21,75
+       22.11.17     222543     EUGENIA TRATTORIA           CLP   5.200,00                                            8,27 
+       22.11.17     269453     PANCAKE SPA                 CLP     950,00                                            1,52
+       22.11.17     365365     REST. OPERA CATEDRAL        CLP  14.410,00                                           22,92 
+       22.11.17     450000A    AGUSTINAS     1287        CLP   25.000,00                                            39,76
+       23.11.17     451692     LIDER EXP PROVIDENCIA       CLP   4.710,00                                            7,49 
+       23.11.17     473795     TOCS BELLAVISTA             CLP   1.220,00                                            1,94
+       23.11.17     490048     FUND.PABLO NERUDA PROVIDE   CLP  14.000,00                                           22,27 
+       23.11.17     525967     FUND.PABLO NERUDA PROVIDE   CLP   6.500,00                                           10,34
+       23.11.17     656670     CASA IDEAS COSTANERA CENT   CLP  59.630,00                                           95,04 
+       23.11.17     700238     STARBUCKS COFFE             CLP   5.400,00                                            8,61
+       23.11.17     739044     CASA IDEAS COSTANERA CENT   CLP  25.960,00                                           41,38 
+       24.11.17     765134     MIL DOSCIENTOS OCHENTA Y    CLP  18.150,00                                           28,93
+       24.11.17     826127     LIDER EXP PROVIDENCIA       CLP   3.400,00                                            5,42 
+       24.11.17     877138     TUR-BUS 998 STGPAJARITOS    CLP   7.200,00                                           11,47
+       24.11.17     229135     JENUZ                       CLP  15.100,00                                           23,91 
+       25.11.17     686146U    Spotify P041E35101                                                 69,00
+       25.11.17     552381     HIP VINA CENTRO             CLP   6.394,00                                           10,12 
+       25.11.17     586584     CHANDELIER                  CLP   6.800,00                                           10,77
+       26.11.17     964276     DUNKIN DONUTS               CLP   4.380,00                                            6,94 
+       26.11.17     039755     OK MARKET PZA ITALIA        CLP     990,00                                            1,57
+       26.11.17     056873     TECLADOS                    CLP  18.260,00                                           28,91 
+       27.11.17     243593     TURISTIK PROVIDENCIA        CLP   3.000,00                                            4,73
+       27.11.17     372130     HELADOS BLANCA              CLP   4.000,00                                            6,30 
+       27.11.17     435202     MACHU PICCHU                CLP  20.600,00                                           32,46
+       28.11.17     010000*    CAJA DE SEGUR 0000014753752-002-000                               125,00 
+       28.11.17     525690     BED Y BREAKFAST             USD     110,00                                          110,00
+       28.11.17     610303     DUNKIN DONUTS PUDAHUEL      CLP   1.640,00                                            2,58 
+ 
+       Tarjeta 3518 Total Consumos de NICOLAS SUBOTOVSKY                                       5.348,40            631,24 _ 
+       30.11.17                INTERESES ADELANTO EN     USD                                                         0,39
+¿Quiere pagar su resumen en cuotas? Utilice Plan V de Visa
+Con Plan V cancele el pago mínimo y abone el saldo hasta en 24 cuotas. Además,
+Ud. tiene la posibilidad de transformar en cuotas los consumos realizados en un
+pago, por ejemplo en restaurantes y espectáculos. Llame al Centro de Atención
+Exclusivo Visa Platinum 0800 - 333 - 7528 o ingrese en www.visa.com.arPAGINA:
+           2/ 3
+TITULAR DE CUENTA                                                  SUBOTOVSKY NICOLAS NRO.DE CUENTA 0402738152
+           FECHA   COMPROBANTE          DETALLE DE TRANSACCION                                                                 PESOS                  DOLARES 
+       30.11.17                DB IVA U$S 21%                               0,39                                     0,08 
+                                                                 __________________________________________________________
+                                                                 SALDO ACTUAL         $        5.577,40  U$S       631,71 
+                                                                 __________________________________________________________
+                                                                 PAGO MINIMO          $        2.780,00 
+                                                                 __________________________________________________________
+                DEBITAREMOS DE SU  C.A.00000004090269 LA SUMA DE  $      5577,40 + U$S    631,71                          _ 
+              *Programa LANPASS - Kms acumulados en la presente liquidación:   1.461                                        _ 
+              Programa LANPASS - Usted podrá verificar los kms acumulados por su Cuenta
+              ingresando en www.lan.com. El programa no es acumulable con otros programas de
+              suma y acumulación de puntos. Los términos y condiciones del Programa LANPASS
+              son de exclusiva propiedad de LAN, los mismos se encuentran disponibles en su
+              sitio web www.lan.com, los cuáles podrán ser modificados.
+              Lan es responsable por la administración del programa.                                                        _ 
+              Plan V: abonando el pago mínimo de $   2780,00 usted puede cancelar en cuotas
+              fijas su saldo financiable de $  13953,39 en:
+                    3 cuotas de $  4943,76 (TNA Fija:  37,890% - TEA:   45,225%) *
+                    6 cuotas de $  2585,51 (TNA Fija:  37,890% - TEA:   45,225%) *
+                   12 cuotas de $  1411,36 (TNA Fija:  37,890% - TEA:   45,225%) *
+                   24 cuotas de $   834,08 (TNA Fija:  37,890% - TEA:   45,225%) *
+              CFTEA - Ejemplo: cada $ 1000, su CFTEA será:
+              Con IVA:  3 cuotas  56,85%/ 6 cuotas  56,85%/12 cuotas  56,85%/24 cuotas  56,85%
+              Sin IVA:  3 cuotas  45,23%/ 6 cuotas  45,23%/12 cuotas  45,23%/24 cuotas  45,23%
+              * El valor de la cuota no incluye IVA sobre los intereses.
+              Sujeto al límite disponible de la cuenta. Válido para tarjetas en estado normal.
+              Cancelación anticipada: el importe de las cuotas se incluirá en el pago mínimo.
+              Condiciones vigentes hasta el 13-12-17. Llame al 0800-333-7528
+              o ingrese en www.visa.com.ar/VisaHomeSocios.                                                                  _ 
+              Composición de Pago Mínimo: saldos financiados, consumos en un pago y débitos
+              automáticos: 10%.
+              Compras en Cuotas: 10% de las cuotas 1era a 3era., 25% de las cuotas 4ta a 6ta
+              y 50% de las cuotas 7ma. en adelante. Cargos, comisiones, intereses, seguro de
+              vida, adelantos en efectivo, excesos en el LC, pagos mínimos impagos
+              anteriores, cuotas de Plan V e Impuestos: 100%                                                                _ 
+              Canales Alternativos de Pago: (Pago Fácil / Banelco / Pago mis cuentas / Link)
+              le recordamos que si Ud. efectúa su pago un día hábil hasta la hora 23:59 será
+              computado con la fecha de ese día. Si la operación fue efectuada un Sábado,
+              Domingo o Feriado, será computado con la fecha del día hábil siguiente.
+              En el caso que Ud. tenga débito automático para el pago de su tarjeta y efectúe
+              el pago mediante alguno de los medios alternativos, deberá realizarlo con 48 hs
+              hábiles mínimas de anticipación al vto. de su tarjeta.                                                        _ 
+              Estimado Cliente: se procederá al bloqueo de las tarjetas de crédito que
+              cuenten con 5 días de atraso considerados desde la fecha de vencimiento. Una
+              vez efectuado el pago se procederá a su rehabilitación.                                                       _ 
+              De acuerdo a lo estipulado por el inc. ñ) de la ley 25.065 se encuentra
+              prohibida la capitalización de intereses.                                                                     _ 
+              Sus compras en cuotas u otros planes de financiación con fecha anterior al
+              01/09/2016 cuentan con un Seguro de Vida del usuario titular, conforme las
+              condiciones generales y particulares de Póliza de la Compañía Aseguradora
+              optada. La Póliza colectiva que aplica a BBVA Consolidar Seguros S.A. es la
+              Nro. 201.392, la Póliza colectiva que aplica a CNP Assurances Compañía de
+              Seguros S.A. es la Nro. 3000170 y la Póliza colectiva que aplica a Zurich
+              Argentina Compañía de Seguros S.A. es la Nro. 60000019. Capital máximo
+              asegurado para cada póliza: $100.000. Prima mensual: 0.29%. Riesgos cubiertos:
+              fallecimiento e invalidez total y permanente. Contratación y cobertura sujeta
+              a política de suscripción y condiciones de póliza de cada Cía. Aseguradora.
+              De acuerdo a la Comunicación BCRA A5460 se encuentra a su disposición la
+              opción entre las compañías mencionadas.                                                                       _ 
+              La tasa vigente para adelantos de efectivo en el exterior será de TNA 17.00%,
+              TEM 1.40%, TEA 18.12%, CFT c/iva 4,214% - s/iva 4,095%.                                                       _ 
+              El monto de IVA discriminado no puede computarse como crédito fiscal.                                         _ 
+              Estimado cliente: Le recordamos que a partir del 1 de agosto de 2016 por
+              Disposición del Ministerio del Interior, Obras Públicas y Vivienda, el único
+              documento válido para operar para todos los residentes de la República
+              Argentina menores de 75 años será el nuevo DNI o DNI Tarjeta.
+              Ante cualquier consulta o inconveniente en la utilización de sus tarjetas Visa
+              Platinum, comuníquese con Línea Francés al 0800-333-0303 de lunes a viernes de
+              07:00 hs a 22:00 hs o al Centro de Atención Exclusivo Visa Platinum, las 24hs
+              todos los días del año llamando desde Argentina al 0800-333-7528 o desde el
+              Exterior al (54 11) 4379-6200 solicitando el cobro revertido.                                                 _ 
+              A partir del 1 de enero de 2018 la unidad de medida del programa LATAM Pass
+              serán las Millas, siendo 1 Milla LATAM Pass equivalente a 1,6 KMS. LATAM Pass.
+              Es por esto que a partir del resumen con fecha de cierre en enero los consumos
+              de tus Tarjetas de Crédito BBVA Francés asociadas al Programa LATAM Pass
+              pasarás a acumular por cada dólar consumido o su equivalente en pesos
+              argentinos 1 Milla LATAM Pass.                                                                                _ 
+              ADELANTO EN EFECTIVO EN CUOTAS: Disponga de efectivo a través de las redes de
+              Cajeros Automáticos Banelco o Link en el país y páguelo hasta en 36 cuotas en
+              pesos. TNA 37.89%, TEM 3.11%, TEA 44.49%, CFTEA s/IVA 45.23%. con IVA 56.84%
+              (estimado para $1.000 y 36 meses). Monto mínimo $ 500./ máximo $ 10.000.-
+              Disponibilidad: hasta el 50% de su límite de compra. Vigencia: hasta
+              vencimiento de la presente liquidación.                                                                       _ 
+              Las tasas de financiación del próximo período no serán mayores a TNA 58.00%,
+              TEM 4.77%, TEA 74.86%, c/iva CFT 73.71% y s/iva 61.53% en $.                                                  _ 
+              Si la operación se acordó en cuotas, el monto indicado en este resumen (y en el
+              importe del cupón correspondiente) incluye los intereses por financiación
+              conforme a la tasa que el comercio informó al efectuarse la transacción.                                      _ 
+              Orientación al Consumidor Prov. de Bs.As. 0800-222-9042.                                                      _ 
+              Centro de Atención Exclusivo Visa Platinum: 0800-333-7528. Desde el exterior
+              por cobro revertido:(54 11)4379-6200. Si viaja al exterior, comuníquese y
+              conozca el alcance de las coberturas y servicios de su tarjeta.                                               _ PAGINA:
+           3/ 3
+TITULAR DE CUENTA                                                  SUBOTOVSKY NICOLAS NRO.DE CUENTA 0402738152
+              Los intereses de financiación se calculan desde el Vto. de su resumen anterior.                               _ 
+                *USTED DISPONE DE 30 DIAS DESDE LA RECEPCION PARA CUESTIONAR ESTE RESUMEN*                                  _ 

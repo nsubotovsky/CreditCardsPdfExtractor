@@ -1,0 +1,160 @@
+PAGINA:
+VISA PLATINUM           1/ 2
+316 - CATALINAS
+SUCURSAL:
+9287 - LAN CON PQ SCLP
+GRUPO:
+30 50000319 3
+CUIT:
+01 - 017 - L
+CART:
+N DE CUENTA: 0402738152
+N008 - 081
+LIQ.:
+RESUMEN NRO.: 0675438 - 05 - 1 - CR0702
+SUBOTOVSKY NICOLAS
+TITULAR DE CUENTA:
+CIERRE ACTUAL: 27 Jul 17
+SUBOTOVSKY NICOLAS
+VENCIMIENTO SALDO $ SALDO U$S PAGO MIN.$ PAGO MIN.U$S
+AV DEL LIBERTADOR               2730 16
+1636  OLIVOS 09 Ago 17 2.934,24 265,19 1.160,00 -,--
+PROV BS AIRES                             CAR: 01
+TNA $ TEM $
+37,690 % 3,098 %
+VTO. ANTERIOR                                 SALDO ANTERIOR  $                                       U$S                                       PROXIMO CIERRE
+12 Jul 17 3.384,95 2.006,99 31 Ago 17
+CIERRE ANTERIOR                             PAGO MIN. ANT.     $                                                                                    PROXIMO VTO.
+29 Jun 17 4.100,00 13 Set 17
+     LIMITES: COMPRA                                   FINANCIACION                                     ADELANTO(*)           CPRA. CUOTAS
+$    75.000,00 $    60.000,00 $   7.500,00
+       Cuotas a vencer: 
+           Agosto/17 Setiembre/17   Octubre/17 Noviembre/17 Diciembre/17     Enero/18 
+             $997,94      $997,94      $997,94      $997,94      $997,94      $672,11 
+       A partir de    Febrero/18     $3.360,55                                                                             _ 
+           FECHA   COMPROBANTE          DETALLE DE TRANSACCION                                                                 PESOS                  DOLARES 
+                               SALDO ANTERIOR                                                  3.384,95          2.006,99 
+       03.07.17                SU PAGO EN PESOS                                                3.384,95- 
+       03.07.17                SU PAGO EN USD                                                                    2.006,99- _ 
+       12.07.17     565557     KENYA AIR   7068637342590   USD     228,20                                          228,20
+ 
+       Tarjeta 8107 Total Consumos de CAROLINA SUBOTOVSKY                                          0,00            228,20 _ 
+       05.07.17     797122     SKYPE SUBSCRIPTION        USD       25,00                                            25,00
+       16.07.17     321077     NETFLIX.COM               USD       11,99                                            11,99 
+ 
+       Tarjeta 8115 Total Consumos de PESEL ROZENMAN                                               0,00             36,99 _ 
+       31.12.16     000721*    WWW.FRAVEGA.COM              Cuota  07/18                         672,11
+       23.01.17     000528*    TURISUR SRL                  Cuota  07/12                         153,33 
+       24.01.17     000534*    TURISUR SRL                  Cuota  07/12                         172,50
+       29.06.17     107779*    CABLEVISION DEB AUT 000000050942033                               955,00 
+       07.07.17     002819*    CMVET CENTENARIO                                                  770,00
+       07.07.17     009537*    EXPRESS AV CTES 1974                                               33,00 
+       25.07.17     438146U    Spotify P02FC7CCA5                                                 69,00
+       25.07.17     010000*    CAJA DE SEGUR 0000014753752-002-000                               109,30 
+ 
+       Tarjeta 3518 Total Consumos de NICOLAS SUBOTOVSKY                                       2.934,24              0,00 
+                                                                 __________________________________________________________
+                                                                 SALDO ACTUAL         $        2.934,24  U$S       265,19 
+                                                                 __________________________________________________________
+                                                                 PAGO MINIMO          $        1.160,00 
+                                                                 __________________________________________________________
+                DEBITAREMOS DE SU  C.A.00000004090269 LA SUMA DE  $      2934,24 + U$S    265,19                          _ 
+              *Programa LANPASS - Kms acumulados en la presente liquidación:     692                                        _ 
+              Programa LANPASS - Usted podrá verificar los kms acumulados por su Cuenta
+              ingresando en www.lan.com. El programa no es acumulable con otros programas de
+              suma y acumulación de puntos. Los términos y condiciones del Programa LANPASS
+              son de exclusiva propiedad de LAN, los mismos se encuentran disponibles en su
+              sitio web www.lan.com, los cuáles podrán ser modificados.
+              Lan es responsable por la administración del programa.                                                        _ 
+              Plan V: abonando el pago mínimo de $   1160,00 usted puede cancelar en cuotas
+              fijas su saldo financiable de $   6502,57 en:
+                    3 cuotas de $  2303,19 (TNA Fija:  37,690% - TEA:   44,944%) *
+                    6 cuotas de $  1204,25 (TNA Fija:  37,690% - TEA:   44,944%) *
+                   12 cuotas de $   657,08 (TNA Fija:  37,690% - TEA:   44,944%) *
+                   24 cuotas de $   388,02 (TNA Fija:  37,690% - TEA:   44,944%) *
+              CFTEA - Ejemplo: cada $ 1000, su CFTEA será:
+              Con IVA:  3 cuotas  56,49%/ 6 cuotas  56,49%/12 cuotas  56,49%/24 cuotas  56,49%
+              Sin IVA:  3 cuotas  44,96%/ 6 cuotas  44,96%/12 cuotas  44,96%/24 cuotas  44,96%
+              * El valor de la cuota no incluye IVA sobre los intereses.
+              Sujeto al límite disponible de la cuenta. Válido para tarjetas en estado normal.
+              Cancelación anticipada: el importe de las cuotas se incluirá en el pago mínimo.
+              Condiciones vigentes hasta el  9-08-17. Llame al 0800-333-7528
+              o ingrese en www.visa.com.ar/VisaHomeSocios.                                                                  _ 
+              Composición de Pago Mínimo: saldos financiados, consumos en un pago y débitos
+              automáticos: 10%.
+              Compras en Cuotas: 10% de las cuotas 1era a 3era., 25% de las cuotas 4ta a 6ta
+              y 50% de las cuotas 7ma. en adelante. Cargos, comisiones, intereses, seguro de
+              vida, adelantos en efectivo, excesos en el LC, pagos mínimos impagos
+              anteriores, cuotas de Plan V e Impuestos: 100%                                                                _ 
+              Canales Alternativos de Pago: (Pago Fácil / Banelco / Pago mis cuentas / Link)
+              le recordamos que si Ud. efectúa su pago un día hábil hasta la hora 23:59 será
+¿Quiere pagar su resumen en cuotas? Utilice Plan V de Visa
+Con Plan V cancele el pago mínimo y abone el saldo hasta en 24 cuotas. Además,
+Ud. tiene la posibilidad de transformar en cuotas los consumos realizados en un
+pago, por ejemplo en restaurantes y espectáculos. Llame al Centro de Atención
+Exclusivo Visa Platinum 0800 - 333 - 7528 o ingrese en www.visa.com.arPAGINA:
+           2/ 2
+TITULAR DE CUENTA                                                  SUBOTOVSKY NICOLAS NRO.DE CUENTA 0402738152
+              computado con la fecha de ese día. Si la operación fue efectuada un Sábado,
+              Domingo o Feriado, será computado con la fecha del día hábil siguiente.
+              En el caso que Ud. tenga débito automático para el pago de su tarjeta y efectúe
+              el pago mediante alguno de los medios alternativos, deberá realizarlo con 48 hs
+              hábiles mínimas de anticipación al vto. de su tarjeta.                                                        _ 
+              Le informamos que en virtud de la comunicación del BCRA "A" 5928 a partir del 1
+              de septiembre de 2016 el seguro de vida sobre los saldos deudores solo se
+              cobrará sobre los planes de cuotas correspondiente a compras u otros planes de
+              financiación realizados hasta el 31 de agosto de 2016. Las compras, otras
+              transacciones y saldos deudores que se generen con posterioridad al 31 de
+              agosto de 2016 no estarán afectados por el cobro del mencionado seguro de vida.                               _ 
+              Estimado Cliente: se procederá al bloqueo de las tarjetas de crédito que
+              cuenten con 5 días de atraso considerados desde la fecha de vencimiento. Una
+              vez efectuado el pago se procederá a su rehabilitación.                                                       _ 
+              FrancésGo: A partir del 01/04/2017 dejaremos de brindar el servicio  de
+              notificación de promociones a través de SMS. Sin embargo, puede seguir
+              recibiendo notificaciones en su smartphone a través de la aplicación de
+              FrancésGo o en www.francesgo.com.ar. Descargue la aplicación en Google Play o
+              App Store. Si ya la tiene, inicie sesión en la misma para recibir los alertas
+              de las promociones.                                                                                           _ 
+              De acuerdo a lo estipulado por el inc. ñ) de la ley 25.065 se encuentra
+              prohibida la capitalización de intereses.                                                                     _ 
+              Sus compras en cuotas u otros planes de financiación con fecha anterior al
+              01/09/2016 cuentan con un Seguro de Vida del usuario titular, conforme las
+              condiciones generales y particulares de Póliza de la Compañía Aseguradora
+              optada. La Póliza colectiva que aplica a BBVA Consolidar Seguros S.A. es la
+              Nro. 201.392, la Póliza colectiva que aplica a CNP Assurances Compañía de
+              Seguros S.A. es la Nro. 3000170 y la Póliza colectiva que aplica a Zurich
+              Argentina Compañía de Seguros S.A. es la Nro. 60000019. Capital máximo
+              asegurado para cada póliza: $100.000. Prima mensual: 0.29%. Riesgos cubiertos:
+              fallecimiento e invalidez total y permanente. Contratación y cobertura sujeta
+              a política de suscripción y condiciones de póliza de cada Cía. Aseguradora.
+              De acuerdo a la Comunicación BCRA A5460 se encuentra a su disposición la
+              opción entre las compañías mencionadas.                                                                       _ 
+              La tasa vigente para adelantos de efectivo en el exterior será de TNA 17.00%,
+              TEM 1.40%, TEA 18.12%, CFT c/iva 4,214% - s/iva 4,095%.                                                       _ 
+              El monto de IVA discriminado no puede computarse como crédito fiscal.                                         _ 
+              Estimado cliente: Le recordamos que a partir del 1 de agosto de 2016 por
+              Disposición del Ministerio del Interior, Obras Públicas y Vivienda, el único
+              documento válido para operar para todos los residentes de la República
+              Argentina menores de 75 años será el nuevo DNI o DNI Tarjeta.
+              Ante cualquier consulta o inconveniente en la utilización de sus tarjetas Visa
+              Platinum, comuníquese con Línea Francés al 0800-333-0303 de lunes a viernes de
+              07:00 hs a 22:00 hs o al Centro de Atención Exclusivo Visa Platinum, las 24hs
+              todos los días del año llamando desde Argentina al 0800-333-7528 o desde el
+              Exterior al (54 11) 4379-6200 solicitando el cobro revertido.                                                 _ 
+              ADELANTO EN EFECTIVO EN CUOTAS: Disponga de efectivo a través de las redes de
+              Cajeros Automáticos Banelco o Link en el país y páguelo hasta en 36 cuotas en
+              pesos. TNA 37.69%, TEM 3.10%, TEA 44.21%, CFTEA s/IVA 44.94%. con IVA 56.47%
+              (estimado para $1.000 y 36 meses). Monto mínimo $ 500./ máximo $ 10.000.-
+              Disponibilidad: hasta el 50% de su límite de compra. Vigencia: hasta
+              vencimiento de la presente liquidación.                                                                       _ 
+              Las tasas de financiación del próximo período no serán mayores a TNA 58.00%,
+              TEM 4.77%, TEA 74.86%, c/iva CFT 73.71% y s/iva 61.53% en $.                                                  _ 
+              Si la operación se acordó en cuotas, el monto indicado en este resumen (y en el
+              importe del cupón correspondiente) incluye los intereses por financiación
+              conforme a la tasa que el comercio informó al efectuarse la transacción.                                      _ 
+              Orientación al Consumidor Prov. de Bs.As. 0800-222-9042.                                                      _ 
+              Centro de Atención Exclusivo Visa Platinum: 0800-333-7528. Desde el exterior
+              por cobro revertido:(54 11)4379-6200. Si viaja al exterior, comuníquese y
+              conozca el alcance de las coberturas y servicios de su tarjeta.                                               _ 
+              Los intereses de financiación se calculan desde el Vto. de su resumen anterior.                               _ 
+                *USTED DISPONE DE 30 DIAS DESDE LA RECEPCION PARA CUESTIONAR ESTE RESUMEN*                                  _ 
